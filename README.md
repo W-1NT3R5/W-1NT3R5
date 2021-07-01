@@ -1,3 +1,6 @@
+#include<iostream>
 
-
-Discord :-  winters#7529
+int main()
+{
+  std::cout << "Nothing really interesting here tbh,lol" << std::endl;
+}
